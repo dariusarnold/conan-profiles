@@ -1,0 +1,2 @@
+private http://arm.dariusarnold.de:8081/artifactory/api/conan/conan True 
+conancenter https://center.conan.io True 
